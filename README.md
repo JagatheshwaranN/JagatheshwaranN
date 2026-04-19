@@ -66,16 +66,24 @@ Having **10+ years** of experience in software testing of Web-based, Mobile Web-
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagatheshwaranN&show_icons=true&theme=tokyonight)
+<!-- 🔥 Streak Stats — shows current streak, total contributions & longest streak (pulls from GitHub's contribution graph, same data you see on your profile page) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=JagatheshwaranN&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagatheshwaranN&layout=compact&theme=tokyonight)
+<!-- 📈 Contribution Activity Graph — visual heatmap of daily commit activity -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagatheshwaranN&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- 🏆 GitHub Trophies — community-maintained fork, more stable than the original -->
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=JagatheshwaranN&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/lucthienphong1120/github-trophies)
+
+<!-- 👁️ Profile Visitor Counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=JagatheshwaranN&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/JagatheshwaranN)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
