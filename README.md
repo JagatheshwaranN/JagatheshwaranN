@@ -9,13 +9,13 @@ Having **10+ years** of experience in software testing of Web-based, Mobile Web-
 
 ## Professional Summary
 
-- ✅ Experienced in both **automation and manual testing** (Functional, Regression, and Retesting)
-- ✅ Skilled in **test plan creation**, test case design, and execution
-- ✅ Hands-on experience in **test automation estimation**
-- ✅ Proven experience in **leading QA teams** with a good understanding of SDLC, STLC, and Defect Life Cycle
-- ✅ Proficient in preparing **weekly and daily status reports**
-- ✅ Ability to work under tight timelines and deliver results on time
-- ✅ Eager to learn new technologies, tools, and automation framework design techniques
+- Experienced in both **automation and manual testing** (Functional, Regression, and Retesting)
+- Skilled in **test plan creation**, test case design, and execution
+- Hands-on experience in **test automation estimation**
+- Proven experience in **leading QA teams** with a good understanding of SDLC, STLC, and Defect Life Cycle
+- Proficient in preparing **weekly and daily status reports**
+- Ability to work under tight timelines and deliver results on time
+- Eager to learn new technologies, tools, and automation framework design techniques
 
 ---
 
@@ -64,7 +64,7 @@ Having **10+ years** of experience in software testing of Web-based, Mobile Web-
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- 🔥 Streak Stats — shows current streak, total contributions & longest streak (pulls from GitHub's contribution graph, same data you see on your profile page) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=JagatheshwaranN&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -80,7 +80,7 @@ Having **10+ years** of experience in software testing of Web-based, Mobile Web-
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/JagatheshwaranN)
